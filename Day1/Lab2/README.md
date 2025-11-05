@@ -20,7 +20,7 @@
 ---
 
 ### 🧩 Étapes
--1️⃣ Charger les logs web
+- 1️⃣ Charger les logs web
 ```python
 df_logs = spark.read.option("header", True).csv("../data/logs_web.csv")
 ```
