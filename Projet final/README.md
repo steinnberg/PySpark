@@ -1,4 +1,4 @@
-# Projet Final – Pipeline Big Data PySpark
+# 🎓 Projet Final – Pipeline Big Data PySpark
 
 ## Objectif  
 Assembler les 4 briques de votre formation « Big Data avec PySpark » en un **pipeline complet** :  
